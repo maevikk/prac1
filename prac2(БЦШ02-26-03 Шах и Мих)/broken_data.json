@@ -1,0 +1,25 @@
+{
+    "pad_id": "PAD-29",
+    "well_id": "W-219",
+    "p_res_mpa": 31.5,
+    "p_bhp_mpa": 19.6,
+    "mode": "PUMPING",
+    "is_online": true,
+    "sensors": [
+        {
+            "code": "T-01",
+            "value": 51.0,
+            "unit": "C"
+        },
+        {
+            "code": "Q-01",
+            "value": 136.0,
+            "unit": "INVALID"
+        },
+        {
+            "code": "P-01",
+            "value": 14.0,
+            "unit": "MPa"
+        }
+    ]
+}
